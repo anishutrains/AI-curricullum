@@ -6,15 +6,29 @@ This curriculum prepares job-ready Generative AI Engineers for the United States
 
 ---
 
+## Start Here (Teachers & Students)
+
+### **[CURRICULUM-COMPLETE.md](./CURRICULUM-COMPLETE.md)** — One unified 52-week document
+
+All 12 modules combined into **52 weeks · 100+ lessons**, zero to job-ready. Each lesson lists **concepts taught**, **step-by-step activities**, and **deliverables** drawn from `curriculum/module-*.md`.
+
+- Organized by **week** (not stage)
+- One lesson per module subtopic with expanded teaching detail
+- Teacher checklist each week; foundation weeks for IT beginners
+- Regenerate after module edits: `python scripts/generate_curriculum.py`
+
+---
+
 ## How to Use This Curriculum
 
 | Order | Document | Purpose |
 |-------|----------|---------|
-| Start | [01-executive-summary.md](./01-executive-summary.md) | Vision, outcomes, differentiation |
+| **Teach / Learn** | **[CURRICULUM-COMPLETE.md](./CURRICULUM-COMPLETE.md)** | **Primary course document** |
+| Overview | [01-executive-summary.md](./01-executive-summary.md) | Vision, outcomes, differentiation |
 | Research | [research/01-job-market-research.md](./research/01-job-market-research.md) | Phase 1: USA market analysis |
 | Roles | [job-roles/ALL-AI-JOB-ROLES.md](./job-roles/ALL-AI-JOB-ROLES.md) | Phase 2: 25+ target job roles |
 | Plan | [05-complete-learning-roadmap.md](./05-complete-learning-roadmap.md) | Master learning path |
-| Learn | [curriculum/](./curriculum/) | Phase 3: Full modules (14 fields per topic) |
+| Reference | [curriculum/](./curriculum/) | Detailed module files (Modules 01–12) |
 | Build | [08-project-portfolio.md](./08-project-portfolio.md) | Phase 4: Industry-level projects |
 | Hire | [15-interview-preparation-matrix.md](./15-interview-preparation-matrix.md) | Phase 5–6: Job readiness |
 

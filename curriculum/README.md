@@ -1,6 +1,9 @@
 # 7. Full Curriculum — Module Index
 
-Each topic follows the **14-field standard** from `prompt.md`:
+> **For teaching and learning, use the unified document:** [CURRICULUM-COMPLETE.md](../CURRICULUM-COMPLETE.md)  
+> (All modules in one place, zero-to-advanced, with lessons for beginners.)
+
+Each topic below follows the **14-field standard** from `prompt.md` (detailed reference):
 
 1. Topic Name | 2. Why It Matters (USA Jobs) | 3. Job Roles | 4. Learning Objectives  
 5. Lessons/Subtopics | 6. Hands-on Labs | 7. Enterprise Projects | 8. Portfolio Projects  
