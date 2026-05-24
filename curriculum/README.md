@@ -19,6 +19,13 @@
 
 Each module follows the **Zero-to-Hero format**: Why This Module, journey/prerequisites, skill levels, topics with beginner explanations, detailed lessons (concept → coding → production → enterprise), labs, interview prep, portfolio tasks, and capstone integration.
 
+### LLMOps Specialization Track (Complete Beginner → LLMOps Engineer)
+
+| Track | File | Description |
+|-------|------|-------------|
+| **Primary** | [LLMOPS-ENGINEER-ROADMAP.md](./LLMOPS-ENGINEER-ROADMAP.md) | 16 phases · 52 weeks · no IT background assumed |
+| Reference outline | [sample_llm_ops.md](./sample_llm_ops.md) | Original phase outline (superseded by roadmap) |
+
 ---
 
 ## Modules
